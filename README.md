@@ -18,4 +18,4 @@
 [<img src="https://skillicons.dev/icons?i=linkedin" width="30px">](https://www.linkedin.com/in/alfredo-cano-programador/)
 [<img src="https://skillicons.dev/icons?i=github" width="30px">](https://github.com/MidoriAC)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MidoriAC&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
