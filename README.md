@@ -1,21 +1,36 @@
-<h1 align="center">Hola , Soy Alfredo Cano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Web+jr;Estudiante+de+Ingeniería+en+Sistemas&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">Soy una persona apasionada por la tecnología y por aprender día con día, he desarrollado varios proyectos con Angular donde he adquirido habilidades en la implementación de tecnologías como Redux, Reactive Forms, Signals, así como la integración de APIs externas. Mi enfoque en aprender y mejorar continuamente me impulsa a enfrentar desafíos y demostrar mi potencial en el desarrollo de software de calidad, siempre buscando crecer en mi carrera profesional.</h4>
-<br>
+<h1 align="center">Hola 👋, soy Alfredo Cano</h1>
 
-## Lenguajes y Herramientas:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Flutter;Apasionado+por+la+tecnología+y+el+aprendizaje+continuo;Experiencia+en+proyectos+empresariales;Siempre+buscando+nuevos+retos&center=true&width=500&height=50" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+<h4 align="center">
+Soy un desarrollador móvil especializado en Flutter con experiencia en aplicaciones empresariales del sector telecomunicaciones en Centroamérica.  
+He trabajado en el diseño, maquetación y desarrollo de interfaces responsivas, integración de servicios REST, y aplicación de arquitectura limpia.  
+Me apasiona crear soluciones móviles de calidad, escalables y con buena experiencia de usuario, siempre comprometido con el aprendizaje continuo y el trabajo en equipo.
+</h4>
+
+---
+
+## 🛠️ Lenguajes y herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vs" />
-   <img src="https://skillicons.dev/icons?i=mysql,php,postman,ts,ubuntu,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
+ 
 </div>
 
-## Mis redes sociales: 💬
+---
+
+## 🌐 Redes sociales
 
 [<img src="https://skillicons.dev/icons?i=linkedin" width="30px">](https://www.linkedin.com/in/alfredo-cano-programador/)
 [<img src="https://skillicons.dev/icons?i=github" width="30px">](https://github.com/MidoriAC)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MidoriAC&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MidoriAC&label=Profile%20views&color=0e75b6&style=plastic" alt="MidoriAC" />
+</p>
+
