@@ -9,7 +9,7 @@
 ## Lenguajes y Herramientas:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,visual" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vs" />
    <img src="https://skillicons.dev/icons?i=mysql,php,postman,ts,ubuntu,vscode" />
 </div>
 
